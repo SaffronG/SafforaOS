@@ -9,8 +9,9 @@ Deadline: 2/8/25
 - [ ] Work on CLI commands for basic interaction
 - [ ] Follow along on a couple tutorial videos
 
-2/22/25
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+> TODO Deadline: 2/22/25
+- [ ] n/a
+- [ ] n/a
+- [ ] n/a
+- [ ] n/a
+- [ ] n/a
