@@ -1,5 +1,5 @@
 # SafforaOS
-My attempt at creating a fully functional intel x86 architecture Operating System. I will follow a series of tutorials and make a basic command-line UI to interact with the OS and more in the future.
+My attempt at creating a fully functional Operating System using Rust. I will follow a series of tutorials and make a basic command-line UI to interact with the OS and more in the future.
 
 > TODO
 Deadline: 2/8/25
