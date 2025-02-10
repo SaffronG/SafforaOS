@@ -5,6 +5,7 @@ authors = ["Kenneth Harmer chase.harmer@yahoo.com"]
 edition = "2018"
 
 [dependencies]
+bootloader = "0.9"
 
 [profile.dev]
 panic = "abort"
