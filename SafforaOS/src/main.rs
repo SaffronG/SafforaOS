@@ -21,6 +21,3 @@ pub extern "C" fn _start() -> ! { // defined entry point "_start"
 
     loop {}
 }
-
-// Unimplemented Functions (normally included with C standard library so we need to re-implement them)
-// >> memset, memcpy, memcmp
